@@ -2,5 +2,5 @@ Resolusi
 - Belajar Android Lebih dalam
 - Belajar Database
 - Belajar Api
-- Mencoba mengerjakan procejt
 - 2021 Harus lulus kuliah
+- Membuat Template Sendiri
