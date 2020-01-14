@@ -1,0 +1,4 @@
+Rencana Project 
+
+- membuat sebuah project sendiri 
+- membuat template untuk sebuah project
