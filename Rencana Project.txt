@@ -1,4 +1,6 @@
 Rencana Project 
 
 - membuat sebuah project sendiri 
+  * project kasir 
+  * project traveller
 - membuat template untuk sebuah project
