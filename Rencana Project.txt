@@ -4,6 +4,7 @@ Rencana Project
   * project kasir 
   * project traveller
   * project store
+  * project pariwisata
 - membuat database
   ^ MYSQl
 - membuat template untuk sebuah project
