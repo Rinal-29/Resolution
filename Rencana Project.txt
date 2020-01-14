@@ -3,4 +3,5 @@ Rencana Project
 - membuat sebuah project sendiri 
   * project kasir 
   * project traveller
+- membuar database
 - membuat template untuk sebuah project
