@@ -4,6 +4,7 @@ Rencana Project
   * project kasir 
   * project traveller
   * project store
+  * project voting
   * project pariwisata
 - membuat database
   ^ MYSQl
