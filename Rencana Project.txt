@@ -5,6 +5,7 @@ Rencana Project
   * project traveller
   * project store
   * project voting
+  * project pariwisata
 - membuat database
-  ^ MYSQL
+  ^ MYSQl
 - membuat template untuk sebuah project
