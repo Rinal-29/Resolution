@@ -3,5 +3,8 @@ Rencana Project
 - membuat sebuah project sendiri 
   * project kasir 
   * project traveller
-- membuar database
+  * project store
+  * project voting
+- membuat database
+  ^ MYSQL
 - membuat template untuk sebuah project
